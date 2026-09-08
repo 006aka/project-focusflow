@@ -30,3 +30,11 @@ FocusFlow/
 |- build.gradle.kts
 |- settings.gradle.kts
 `- README.md
+```
+## How to download and run the project
+
+1. Open the repository on GitHub.
+2. Click the green **Code** button and choose **Download ZIP**, or clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/FocusFlow.git
